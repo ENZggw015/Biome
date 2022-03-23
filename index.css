@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(31, 28, 28);
+}
+
+
+.cabecalho {
+    background-color: rgb(77, 48, 33);
+    padding: 40px;
+    box-shadow: 9px 7px 5px rgb(51, 29, 13);
+    text-align: center;
+    text-shadow: 4px 4px 4px white;
+}
+
+.cabecalho img {
+    border-radius: 360px;
+}
+
+.container {
+    background-color: rgb(58, 31, 31);
+    padding: 110px;
+    text-align: center;
+    border-radius: 37px;
+}
+
+.container a {
+    font-size: 35px;
+    color:white;
+}
+
+.container h1 {
+    font-size: 55px;
+    color: white;
+    text-shadow: 4px 4px 4px black;
+}
+
+.container2 {
+    background-color: rgb(238, 207, 207);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container2 h1 {
+    font-size: 37px;
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(160, 157, 157);
+}
+
+.container2 p {
+    font-size: 33px;
+}
+
+.container3 {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #97D4D9;
+}
+
+.encerramento h1{
+ text-align: center;
+ text-shadow: 4px 4px 4px white;
+}
+
+.encerramento {
+    background-color: rgb(163, 51, 51);
+    box-shadow:  5px 4px 5px rgb(99, 44, 44)
+    padding: 10px;
+    border-radius: 11px;
+}
+
+.encerramento h2 {
+    font-size: 27px;
+}
+
+.separador  {
+    background-color: rgb(31, 28, 28);;
+    color: rgb(31, 28, 28);;
+    padding: 20px;
+}
